@@ -1,5 +1,6 @@
 # eryx
-<img src="https://github.com/user-attachments/assets/27a08518-1178-4116-afd8-535a393f57ac" alt="logo" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/c11c0a28-bdf8-4b11-8e79-1c064479bdcc" alt="logo" width="250"/>
 
 Collection of Cheat dumps for Research and Detection.
 

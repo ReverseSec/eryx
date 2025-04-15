@@ -7,5 +7,5 @@
 </p>
 
 ## License
-eryx is provided strictly for research and analysis purposes. Please refrain from using it for any illegal activities.
+eryx is provided strictly for research and detection purposes. Please refrain from using it for any illegal activities.
 [LICENSE](LICENSE)
